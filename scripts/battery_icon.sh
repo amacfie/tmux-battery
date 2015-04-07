@@ -10,9 +10,9 @@ charging_icon=""
 attached_icon=""
 discharging_icon=""
 
-charged_default="❇ "
+charged_default="charged "
 charged_default_osx="🔋 "
-charging_default="⚡️ "
+charging_default="charging...️ "
 attached_default="⚠️ "
 discharging_default=""
 
